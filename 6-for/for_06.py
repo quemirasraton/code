@@ -1,5 +1,6 @@
 
 name_list:  list[str]   = ["Jhon", "Mary", "Lucy"]
+index_list: list[str]   = [0, 1, 2] 
 new_list_1: list[str]   = []
 new_list_2: list[str]   = []
 
